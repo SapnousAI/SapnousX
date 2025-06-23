@@ -1,0 +1,22 @@
+# Core dependencies for SapnousX
+python-dotenv
+pyyaml
+tinydb
+playwright
+pexpect
+paramiko
+whisper
+pyttsx3
+gtts
+opencv-python
+Pillow
+pandas
+openpyxl
+python-docx
+PyMuPDF
+python-pptx
+fastapi
+uvicorn
+gitpython
+autogen
+qdrant-client

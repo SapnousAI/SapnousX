@@ -1,0 +1,3 @@
+name: example_tool
+category: CLI
+entrypoint: tool.py

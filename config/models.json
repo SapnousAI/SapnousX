@@ -1,0 +1,6 @@
+{
+  "claude": {"role": "reasoning", "endpoint": "..."},
+  "gpt-4.1": {"role": "summarization", "endpoint": "..."},
+  "gemini-2.5": {"role": "complex", "endpoint": "..."},
+  "flash": {"role": "background", "endpoint": "..."}
+}

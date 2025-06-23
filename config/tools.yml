@@ -1,0 +1,5 @@
+# List of available tools
+- name: example_tool
+  category: CLI
+  entrypoint: tools/example_tool/tool.py
+  cost: 0.001

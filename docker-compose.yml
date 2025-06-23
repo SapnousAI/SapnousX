@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  sapnous_kernel:
+    build: .
+    image: sapnousx/kernel:latest
+    container_name: sapnous_kernel
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    ports:
+      - "8000:8000"
+    command: ["python", "sapnous_kernel.py"]
